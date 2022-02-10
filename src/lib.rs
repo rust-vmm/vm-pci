@@ -3,4 +3,5 @@
 /// Dummy public function needs documentation.
 pub fn it_works() {
     assert!(true);
+    assert!(true);
 }
